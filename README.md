@@ -3,6 +3,7 @@
 <h3 align="center">A passionate learner and open source enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman153&label=Profile%20views&color=0e75b6&style=flat" alt="naman153" /> </p>
+<img align="right" width=350px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently working on [TheFabricStore](https://github.com/naman153/TheFabricStore)
 
@@ -40,4 +41,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman153&show_icons=true&locale=en&layout=compact" alt="naman153" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman153&show_icons=true&locale=en" alt="naman153" /></p>
+<br>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
