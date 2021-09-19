@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Naman Gupta</h1>
+## Hey Folks 👋,
+<h1 align="center"> I'm Naman Gupta</h1>
 <h3 align="center">A passionate learner and open source enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman153&label=Profile%20views&color=0e75b6&style=flat" alt="naman153" /> </p>
