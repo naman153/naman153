@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [TheFabricStore](https://github.com/naman153/TheFabricStore)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**, **ML Techniques**
 
 - 👯 I’m looking to collaborate on [KnowledgePapa](https://github.com/KnowledgePapa)
 
