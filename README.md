@@ -1,9 +1,11 @@
 ## Hey Folks 👋,
-<h1 align="center"> I'm Naman Gupta</h1>
+<img align="center" width=1000px height=200px alt="side_sticker" src="https://github.com/naman153/naman153/blob/main/VPL-04%20(1)%20(1).jpg" />
+
+
 <h3 align="center">A passionate learner and open source enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman153&label=Profile%20views&color=0e75b6&style=flat" alt="naman153" /> </p>
-<img align="right" width=350px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=400px height=350px alt="side_sticker" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 
 - 🔭 I’m currently working on [TheFabricStore](https://github.com/naman153/TheFabricStore)
 
