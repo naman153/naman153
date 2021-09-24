@@ -1,5 +1,5 @@
 ## Hey Folks 👋,
-<img align="center" width=1000px height=200px alt="side_sticker" src="https://github.com/naman153/naman153/blob/main/VPL-04%20(1)%20(1).jpg" />
+<img align="center" width=1000px height=300px alt="side_sticker" src="https://github.com/naman153/naman153/blob/main/photo-1602992708529-c9fdb12905c9%20(1).jpg" />
 
 
 <h3 align="center">A passionate learner and open source enthusiast from India</h3>
