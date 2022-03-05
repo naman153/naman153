@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **Django**, **ML Techniques**
 
-- 👯 I’m looking to collaborate on [KnowledgePapa](https://github.com/KnowledgePapa)
-
 - 👨‍💻 All of my projects are available at [https://github.com/naman153/](https://github.com/naman153/)
-
-- 📝 I regularly write articles on [knowledgepapa.com](knowledgepapa.com)
 
 - 💬 Ask me about **c/c++, python, DS**
 
